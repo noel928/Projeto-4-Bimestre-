@@ -1,2 +1,2 @@
 - Proposta do jogo:
-- jogo e basicamente  jogo da cobrinha (snake doogles)
+- jogo e basicamente  jogo da cobrinha (snake doodle)
